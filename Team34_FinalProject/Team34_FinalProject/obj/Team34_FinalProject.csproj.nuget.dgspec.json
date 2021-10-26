@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert Deacon\\BeastaDrive\\#University\\Semester7\\MIS 333K\\FinalProject\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj": {}
+    "C:\\Users\\maksh\\OneDrive\\Documents\\MIS 333K\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert Deacon\\BeastaDrive\\#University\\Semester7\\MIS 333K\\FinalProject\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj": {
+    "C:\\Users\\maksh\\OneDrive\\Documents\\MIS 333K\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert Deacon\\BeastaDrive\\#University\\Semester7\\MIS 333K\\FinalProject\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\maksh\\OneDrive\\Documents\\MIS 333K\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj",
         "projectName": "Team34_FinalProject",
-        "projectPath": "C:\\Users\\Robert Deacon\\BeastaDrive\\#University\\Semester7\\MIS 333K\\FinalProject\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj",
-        "packagesPath": "C:\\Users\\Robert Deacon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert Deacon\\BeastaDrive\\#University\\Semester7\\MIS 333K\\FinalProject\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\obj\\",
+        "projectPath": "C:\\Users\\maksh\\OneDrive\\Documents\\MIS 333K\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\Team34_FinalProject.csproj",
+        "packagesPath": "C:\\Users\\maksh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maksh\\OneDrive\\Documents\\MIS 333K\\MIS333K_FinalProject\\Team34_FinalProject\\Team34_FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Robert Deacon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maksh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
